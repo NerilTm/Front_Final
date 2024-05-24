@@ -1,4 +1,4 @@
-export const BASE_URL = 'neril-back-adminka.nomoredomainswork.ru/api';
+export const BASE_URL = 'https://neril-back-adminka.nomoredomainswork.ru/api';
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
